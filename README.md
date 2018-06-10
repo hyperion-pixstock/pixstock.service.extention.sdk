@@ -1,1 +1,1 @@
-"# pixstock.service.extention.sdk" 
+# Pixstock.Service.Extention.Sdk
